@@ -2,8 +2,8 @@
 
 from rembg import remove
 
-input_path = './input_pictures/reflecting_new.png'
-output_path = './output_pictures/reflecting_new.png'
+input_path = './input_pictures/thoughtful.png'
+output_path = './output_pictures/thoughtful.png'
 
 with open(input_path, 'rb') as i:
     with open(output_path, 'wb') as o:
